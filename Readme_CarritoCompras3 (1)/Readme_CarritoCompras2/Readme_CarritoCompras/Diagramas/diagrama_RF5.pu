@@ -1,0 +1,11 @@
+@startuml factura
+
+class factura {
+    -Detalles_usuario:String
+    -list_productos: String
+    -costo_envios: float
+    -total_compra: float
+    -metodo_pago: String
+}
+
+@enduml

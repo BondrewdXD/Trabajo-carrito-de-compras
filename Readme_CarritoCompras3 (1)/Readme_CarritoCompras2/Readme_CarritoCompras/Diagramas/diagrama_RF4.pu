@@ -1,0 +1,11 @@
+@startuml gestion_carrito
+
+class gestion_carrito {
+    -id_product: String
+    -Cantidad: Integer
+    -Eliminar: String
+    -Agregar: String
+    -Modificar: String
+}
+
+@enduml

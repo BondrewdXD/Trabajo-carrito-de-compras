@@ -1,0 +1,12 @@
+@startuml producto
+
+class producto {
+    - nombre: String
+    - descripcion: String
+    - categoria: String
+    - costo: Float
+    - cantidadStock: Int
+    - imagen: String
+}
+
+@enduml

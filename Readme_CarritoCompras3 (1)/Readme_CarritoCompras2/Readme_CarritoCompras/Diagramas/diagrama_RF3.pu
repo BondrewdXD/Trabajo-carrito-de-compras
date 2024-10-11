@@ -1,0 +1,10 @@
+@startuml carrito
+
+class carrito {
+    - cantProduct: Integer
+    - actualizar: Boolean
+    - mostrarMensaje: String
+    - opcionesSiguientes: String
+}
+
+@enduml
