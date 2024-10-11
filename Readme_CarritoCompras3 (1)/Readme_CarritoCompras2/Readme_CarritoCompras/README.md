@@ -2,7 +2,7 @@
 
 ### Requerimientos funcionales
 ---
-### 1. **RF1** Registro e Inicio de Sesión.
+###  **1. RF1** Registro e Inicio de Sesión.
 ---
 #### 2. **Descripción** 
 ---
@@ -46,7 +46,7 @@ El sistema debe permitir a los usuarios registrarse y luego iniciar sesión para
 ---
 ![Diagrama de usuario](PNG/RF1.png)
 
-### 1. **RF2** Catálogo de Productos
+###  **1. RF2** Catálogo de Productos
 ---
 #### 2. **Descripción** 
 ---
@@ -91,7 +91,7 @@ Los usuarios deben poder buscar y ver productos con nombre, descripción, precio
 ![Diagrama de  producto](PNG/RF2.png)
 
 
-### 1. **RF3** Agregar Productos al Carrito
+###  **1. RF3** Agregar Productos al Carrito
 ---
 #### 2. **Descripción** 
 ---
